@@ -10,7 +10,8 @@
           "https://git.rockylinux.org/rocky/comps.git",
           "https://git.rockylinux.org/rocky/rocky-module-metadata.git",
           "https://git.rockylinux.org/rocky/pungi-rocky.git",
-          "https://github.com/rocky-linux/vagrant-anaconda.git"
+          "https://github.com/rocky-linux/vagrant-anaconda.git",
+          "git@github.com:ctrliq/priority-packages.git"
         ]
     }
   }
