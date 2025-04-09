@@ -45,7 +45,7 @@ services:
       ports:
         - 5601:5601
 
-    mordred:
+    grimoirelab:
       platform: linux/amd64
       restart: on-failure:5
       image: grimoirelab/grimoirelab:latest
