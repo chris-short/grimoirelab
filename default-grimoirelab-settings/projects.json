@@ -1,18 +1,16 @@
 {
     "Rocky Linux": {
-      "github": [
+      "git": [
           "https://github.com/rocky-linux/peridot.git",
           "https://github.com/resf/distro-tools.git",
-          "https://github.com/rocky-linux/rocky-tools"
-        ],
-      "git": [
+          "https://github.com/rocky-linux/rocky-tools",
           "https://git.rockylinux.org/rocky/comps.git",
           "https://git.rockylinux.org/rocky/rocky-module-metadata.git",
           "https://git.rockylinux.org/rocky/pungi-rocky.git"
       ]
     },
     "CIQ": {
-      "github": [
+      "git": [
           "https://github.com/ctrliq/priority-packages.git"
         ]
     }
