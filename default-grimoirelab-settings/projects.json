@@ -11,7 +11,7 @@
       "meta": {
         "title": "distro-tools"
       },
-      "git": [
+      "github": [
           "https://github.com/resf/distro-tools.git"
         ]
     },
@@ -41,7 +41,7 @@
     },
     "pungi-rocky": {
       "meta": {
-        "title": "rocky-tools"
+        "title": "pungi-rocky"
       },
       "git": [
           "https://git.rockylinux.org/rocky/pungi-rocky.git"
