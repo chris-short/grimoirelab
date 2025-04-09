@@ -1,56 +1,17 @@
 {
-    "Peridot": {
-      "meta": {
-        "title": "Peridot"
-      },
-      "git": [
-          "https://github.com/rocky-linux/peridot.git"
-        ]
-    },
-    "distro-tools": {
-      "meta": {
-        "title": "distro-tools"
-      },
+    "Rocky Linux": {
       "github": [
-          "https://github.com/resf/distro-tools.git"
-        ]
-    },
-    "rocky-tools": {
-      "meta": {
-        "title": "rocky-tools"
-      },
+          "https://github.com/rocky-linux/peridot.git",
+          "https://github.com/resf/distro-tools.git",
+          "https://github.com/rocky-linux/rocky-tools"
+        ],
       "git": [
-          "https://github.com/rocky-linux/rocky-tools.git"
-        ]
-    },
-    "comps": {
-      "meta": {
-        "title": "rocky/comps"
-      },
-      "git": [
-          "https://git.rockylinux.org/rocky/comps.git"
-        ]
-    },
-    "rocky-module-metadata": {
-      "meta": {
-        "title": "rocky-module-metadata"
-      },
-      "git": [
-          "https://git.rockylinux.org/rocky/rocky-module-metadata.git"
-        ]
-    },
-    "pungi-rocky": {
-      "meta": {
-        "title": "pungi-rocky"
-      },
-      "git": [
+          "https://git.rockylinux.org/rocky/comps.git",
+          "https://git.rockylinux.org/rocky/rocky-module-metadata.git",
           "https://git.rockylinux.org/rocky/pungi-rocky.git"
-        ]
+      ]
     },
-    "ciq-priority-packages": {
-      "meta": {
-        "title": "priority-packages"
-      },
+    "CIQ": {
       "github": [
           "https://github.com/ctrliq/priority-packages.git"
         ]
