@@ -1,18 +1,16 @@
 {
     "Rocky Linux": {
       "git": [
-          "https://github.com/rocky-linux/peridot.git",
-          "https://github.com/resf/distro-tools.git",
-          "https://github.com/rocky-linux/rocky-tools.git",
-          "https://git.resf.org/infrastructure",
-          "https://git.resf.org/peridot/peridot-two.git",
-          "https://github.com/peridotbuild/pv2.git",
-          "https://git.resf.org/sig_core",
-          "https://github.com/rocky-linux/documentation.git",
-          "https://github.com/rocky-linux/docs.rockylinux.org.git",
-          "https://github.com/rocky-linux/wiki.rockylinux.org.git",
-          "https://github.com/rocky-linux/srpmproc.git",
-          "https://github.com/rocky-linux/asknot-rocky.git"
+        "https://git.resf.org/peridot/peridot-two.git",
+        "https://github.com/peridotbuild/pv2.git",
+        "https://github.com/resf/distro-tools.git",
+        "https://github.com/rocky-linux/asknot-rocky.git",
+        "https://github.com/rocky-linux/docs.rockylinux.org.git",
+        "https://github.com/rocky-linux/documentation.git",
+        "https://github.com/rocky-linux/peridot.git",
+        "https://github.com/rocky-linux/rocky-tools.git",
+        "https://github.com/rocky-linux/srpmproc.git",
+        "https://github.com/rocky-linux/wiki.rockylinux.org.git"
       ]
-    },
+    }
 }
