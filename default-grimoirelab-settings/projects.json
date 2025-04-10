@@ -3,16 +3,16 @@
       "git": [
           "https://github.com/rocky-linux/peridot.git",
           "https://github.com/resf/distro-tools.git",
-          "https://github.com/rocky-linux/rocky-tools",
-          "https://git.rockylinux.org/rocky/comps.git",
-          "https://git.rockylinux.org/rocky/rocky-module-metadata.git",
-          "https://git.rockylinux.org/rocky/pungi-rocky.git",
-          "https://github.com/rocky-linux/rockylinux.org"
+          "https://github.com/rocky-linux/rocky-tools.git",
+          "https://git.resf.org/infrastructure",
+          "https://git.resf.org/peridot/peridot-two.git",
+          "https://github.com/peridotbuild/pv2.git",
+          "https://git.resf.org/sig_core",
+          "https://github.com/rocky-linux/documentation.git",
+          "https://github.com/rocky-linux/docs.rockylinux.org.git",
+          "https://github.com/rocky-linux/wiki.rockylinux.org.git",
+          "https://github.com/rocky-linux/srpmproc.git",
+          "https://github.com/rocky-linux/asknot-rocky.git"
       ]
     },
-    "CIQ": {
-      "git": [
-          "https://github.com/ctrliq/priority-packages.git"
-        ]
-    }
 }
