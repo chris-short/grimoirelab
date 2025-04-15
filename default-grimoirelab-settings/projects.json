@@ -2,15 +2,24 @@
     "Rocky Linux": {
       "git": [
         "https://git.resf.org/peridot/peridot-two.git",
-        "https://github.com/peridotbuild/pv2.git",
-        "https://github.com/resf/distro-tools.git",
-        "https://github.com/rocky-linux/asknot-rocky.git",
-        "https://github.com/rocky-linux/docs.rockylinux.org.git",
-        "https://github.com/rocky-linux/documentation.git",
-        "https://github.com/rocky-linux/peridot.git",
-        "https://github.com/rocky-linux/rocky-tools.git",
-        "https://github.com/rocky-linux/srpmproc.git",
-        "https://github.com/rocky-linux/wiki.rockylinux.org.git",
+        "https://git.resf.org/sig_core/ansible-buildsys-management.git",
+        "https://git.resf.org/sig_core/comps.git",
+        "https://git.resf.org/sig_core/content-resolver-configs.git",
+        "https://git.resf.org/sig_core/func.git",
+        "https://git.resf.org/sig_core/kickstarts.git",
+        "https://git.resf.org/sig_core/meta.git",
+        "https://git.resf.org/sig_core/mock-rocky-configs.git",
+        "https://git.resf.org/sig_core/peridot-releng.git",
+        "https://git.resf.org/sig_core/peridot-rocky.git",
+        "https://git.resf.org/sig_core/pungi-rocky.git",
+        "https://git.resf.org/sig_core/rl-metadata.git",
+        "https://git.resf.org/sig_core/rocky-kiwi-descriptions.git",
+        "https://git.resf.org/sig_core/rocky-release.git",
+        "https://git.resf.org/sig_core/rockypkg.git",
+        "https://git.resf.org/sig_core/rpaste.git",
+        "https://git.resf.org/sig_core/srpmproc.git",
+        "https://git.resf.org/sig_core/toolkit.git",
+        "https://git.resf.org/sig_core/wiki.git",
         "https://git.rockylinux.org/sig/altarch/src/arm-trusted-firmware.git",
         "https://git.rockylinux.org/sig/altarch/src/bcm283x-firmware.git",
         "https://git.rockylinux.org/sig/altarch/src/cross-binutils.git",
@@ -312,8 +321,16 @@
         "https://git.rockylinux.org/staging/src/thunderbird-plus.git",
         "https://git.rockylinux.org/staging/src/tinyxml2.git",
         "https://git.rockylinux.org/staging/src/umockdev.git",
-        "https://git.rockylinux.org/staging/src/z3.git"
-
+        "https://git.rockylinux.org/staging/src/z3.git",
+        "https://github.com/peridotbuild/pv2.git",
+        "https://github.com/resf/distro-tools.git",
+        "https://github.com/rocky-linux/asknot-rocky.git",
+        "https://github.com/rocky-linux/docs.rockylinux.org.git",
+        "https://github.com/rocky-linux/documentation.git",
+        "https://github.com/rocky-linux/peridot.git",
+        "https://github.com/rocky-linux/rocky-tools.git",
+        "https://github.com/rocky-linux/srpmproc.git",
+        "https://github.com/rocky-linux/wiki.rockylinux.org.git"
       ]
     }
 }
